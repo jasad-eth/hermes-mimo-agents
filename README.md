@@ -51,7 +51,7 @@ Built for developers who want to compose complex AI workflows from modular, sing
 
 ```bash
 # Clone
-git clone https://github.com/warmad/hermes-mimo-agents.git
+git clone https://github.com/jasad-eth/hermes-mimo-agents.git
 cd hermes-mimo-agents
 
 # Install
